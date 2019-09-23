@@ -1,0 +1,10 @@
+body {
+    background-image: url(../images/Butterfly-Wallpaper-Animated.jpg);
+    background-size: 100%;
+}
+
+.container {
+    background-color: aqua;
+    margin-top: 5%;
+    /* height: 720px; */
+}
